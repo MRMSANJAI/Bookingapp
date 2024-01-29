@@ -1,0 +1,121 @@
+.borderboxs{
+    background: white;
+    flex-direction: column;
+    width:1340px;
+    border-radius: 16px;
+    border: solid #f5f2f2;
+    box-shadow: 0px 4px 16px 0px rgba(17, 34, 17, 0.05);
+    display: flex;
+    justify-content: space-between;
+    padding: 32px 24px;
+    margin-top: 50px;
+    padding-left: 30px;
+    margin-left: 40px;
+    z-index: 10;   
+}
+.spans1{
+    background: white;
+    margin-left: 22px;
+    padding-right: 3px;
+    font-weight: 400;
+    font-size: 16px;
+}
+.inputclss1{
+    margin-left: 25px;
+    width:150px ;
+    height: 40px;
+    border: 1px solid gray;
+    border-radius: 4px;
+    text-align: justify;
+    font-size: 14px;
+    font-weight: 400;
+}
+.search-icon{
+    margin-left: -20px;
+    border-radius: 3px;
+    background: #8DD3BB;
+    width: 60px;
+    height: 40px;
+    text-align: center;
+    font-size: 23px;
+    justify-content: center;
+
+}
+.main-container{
+    display: flex;
+}
+.airline-info{
+    display: inline-flex;
+    flex-direction: column;
+    padding: 10px;
+    gap: 32px;
+    margin-left: 40px;
+    background: white;
+    border-radius: 16px;
+    border: solid #f5f2f2;
+    box-shadow: 0px 4px 16px 0px rgba(17, 34, 17, 0.05);
+    width: 342px;
+}
+.Filter h1{
+    width: 100px;
+    color:#121;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.Filter p{
+    font-family: 'Montserrat',sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+}
+.pricerange{ 
+    width: 180px;
+    height: 3px;
+    color: #8DD3BB;
+}
+.deptrange{
+    width: 180px;
+    height: 3px;
+    color: #8DD3BB;
+}
+.Rating p{
+    font-family: 'Montserrat',sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+}
+.Rating input{
+    margin: 7px;    
+}
+.ibox{
+    border: 1px solid black;
+    padding: 5px;
+    background: white;
+    
+}
+.airlines-info p{
+    font-family: 'Montserrat',sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+.Trips-info p{
+    font-family: 'Montserrat',sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+.pricing-cont{
+    display: flex;
+    background: white;
+    border-radius: 16px;
+    border: solid #f5f2f2;
+    box-shadow: 0px 4px 16px 0px rgba(17, 34, 17, 0.05);
+    width: 1030px;
+    height: 80px;
+    text-align: center;
+    
+}
+.price1{
+    padding-left: 30px;
+    text-align: center;
+    line-height: 10px;
+}
